@@ -1,7 +1,7 @@
 # Projeto com Readme
 Um projeto de teste com um arquivo README. Atualizado.
 
-[<img src="tela.gif" alt="tela inicial" height="500" width="500">](https://www.google.com)
+[<img src="./tela.gif" alt="tela inicial" height="500" width="500">](https://www.google.com)
 
 ## Tecnologias Utilizadas
 - HTML
